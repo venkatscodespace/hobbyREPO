@@ -54,5 +54,5 @@ All projects and code in this repository are licensed under the [Creative Common
 ### Attribution example:
 
 If you use my code or assets, please include the following attribution in your project's documentation or credits:
-- "Portions of code/Assets adapted from [Venkat's Exploration Repository](https://github.com/venkatscodespace/hobbyREPO/), used under [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/), with permission from Venkat."
+- "Portions of code/Assets adapted from [Venkat's hobbyREPO](https://github.com/venkatscodespace/hobbyREPO/), used under [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/), with permission from Venkat."
 
