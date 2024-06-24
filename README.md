@@ -1,4 +1,4 @@
-# Venkat's 
+# Venkat's hobbyREPO
 
 Welcome to hobbyREPO, where I document my journey of learning and experimenting with various technologies and coding concepts!
 
