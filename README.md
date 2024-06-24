@@ -1,6 +1,6 @@
-# Venkat's Exploration Repository
+# Venkat's 
 
-Welcome to my exploration repository where I document my journey of learning and experimenting with various technologies and coding concepts!
+Welcome to hobbyREPO, where I document my journey of learning and experimenting with various technologies and coding concepts!
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -54,5 +54,5 @@ All projects and code in this repository are licensed under the [Creative Common
 ### Attribution example:
 
 If you use my code or assets, please include the following attribution in your project's documentation or credits:
-- "Portions of code/Assets adapted from [Venkat's Exploration Repository](https://github.com/yourusername/your-repo), used under [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/), with permission from Venkat."
+- "Portions of code/Assets adapted from [Venkat's Exploration Repository](https://github.com/venkatscodespace/hobbyREPO/), used under [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/), with permission from Venkat."
 
