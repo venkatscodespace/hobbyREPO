@@ -1,6 +1,5 @@
 from datetime import datetime
 from webbrowser import open_new
-from datetime import datetime
 import time
 def get_current_time_hh_mm():
     now = datetime.now()
@@ -12,4 +11,4 @@ while not opened:
     if current_time == target_time:
         open_new('https://netacad.webex.com/netacad/j.php?MTID=mfa0f4792b3511fc25bc0ff4d98403231')
         opened = True
-    time.sleep(30)  # Check every 30 seconds
+    time.sleep(30)
