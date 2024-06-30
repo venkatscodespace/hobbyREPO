@@ -1,3 +1,5 @@
+Here's your updated repository description with the inclusion of C programming:
+
 # Venkat's hobbyREPO
 
 Welcome to hobbyREPO, where I document my journey of learning and experimenting with various technologies and coding concepts!
@@ -18,6 +20,7 @@ Hello! I'm Venkat, a passionate learner and Computer Science student at Sairam I
 
 Currently, this repository is a work in progress as I explore and learn new concepts. Here are some areas I'm interested in exploring:
 - **Python Projects**: Learning Python and exploring its applications.
+- **C Programming**: Developing foundational programming skills and understanding system-level concepts.
 - **Data Analysis**: Using SQL for data manipulation and analysis.
 
 As I progress, I plan to add more projects and expand my skills in these areas. Stay tuned for updates!
@@ -55,4 +58,3 @@ All projects and code in this repository are licensed under the [Creative Common
 
 If you use my code or assets, please include the following attribution in your project's documentation or credits:
 - "Portions of code/Assets adapted from [Venkat's hobbyREPO](https://github.com/venkatscodespace/hobbyREPO/), used under [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/), with permission from Venkat."
-
