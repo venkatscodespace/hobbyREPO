@@ -1,7 +1,4 @@
-Here's your updated repository description with the inclusion of C programming:
-
 # Venkat's hobbyREPO
-
 Welcome to hobbyREPO, where I document my journey of learning and experimenting with various technologies and coding concepts!
 
 ## Table of Contents
@@ -14,7 +11,7 @@ Welcome to hobbyREPO, where I document my journey of learning and experimenting 
 
 ## Introduction
 
-Hello! I'm Venkat, a passionate learner and Computer Science student at Sairam Institute of Technology. This repository serves as a platform where I explore different technologies, experiment with coding challenges, and document my learning journey.
+Hello! I'm Venkatram , a passionate learner and Computer Science student at Sairam Institute of Technology. This repository serves as a platform where I explore different technologies, experiment with coding challenges, and document my learning journey.
 
 ## Projects
 
@@ -27,7 +24,10 @@ As I progress, I plan to add more projects and expand my skills in these areas. 
 
 ## Technologies Explored
 
-- List of technologies and programming languages I am currently exploring or plan to explore.
+List of technologies and programming languages I am currently exploring or plan to explore:
+- **C**: In Progress
+- **Python**: In Progress
+
 
 ## Goals
 
