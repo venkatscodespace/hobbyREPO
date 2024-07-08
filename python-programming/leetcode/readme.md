@@ -1,7 +1,12 @@
+Here's the repaired README file with proper formatting and content:
+
+---
+
 ## Introduction to LeetCode Problems by venkatscodespace
 
 ### Problem #125: Valid Palindrome (Difficulty: Medium)
 #### Companies: Facebook, Microsoft, and Amazon​
+
 A phrase is considered a palindrome if, after converting all uppercase letters into lowercase letters and removing all non-alphanumeric characters, it reads the same forward and backward. Alphanumeric characters include letters and numbers.
 
 Given a string `s`, return `true` if it is a palindrome, or `false` otherwise.
@@ -66,6 +71,7 @@ print(solution.isPalindrome(" "))  # Output: true
 
 This code defines a `Solution` class with an `isPalindrome` method that checks if the given string `s` is a palindrome according to the problem's definition. The method processes the string to remove non-alphanumeric characters and convert all letters to lowercase before checking if it reads the same forward and backward.
 
+---
 
 ### Problem #43: Multiply Strings (Difficulty: Medium)
 
@@ -103,28 +109,30 @@ This code defines a `Solution` class with a `multiply` method that multiplies tw
 - Converts the input strings to integers, performs the multiplication, and returns the result as a string.
 - Includes exception handling to manage potential `ValueError` exceptions during string to integer conversion.
 
+---
+
 ### Problem #58: Length of Last Word (Difficulty: Easy)
 
 Given a string `s` consisting of words and spaces, this program calculates the length of the last word in the string. A word is defined as a maximal substring consisting of non-space characters only.
 
-## Example
+### Example
 
-## Example 1:
+#### Example 1:
 Input: "Hello World"
 Output: 5
 Explanation: The last word is "World" with length 5.
 
-## Example 2:
+#### Example 2:
 Input: "   fly me   to   the moon  "
 Output: 4
 Explanation: The last word is "moon" with length 4.
 
-## Example 3:
+#### Example 3:
 Input: "luffy is still joyboy"
 Output: 6
 Explanation: The last word is "joyboy" with length 6.
 
-## Implementation in Python
+### Implementation in Python
 
 ```python
 class Solution(object):
@@ -156,3 +164,8 @@ print(solution.lengthOfLastWord("   fly me   to   the moon  "))  # Output: 4
 
 # Example 3:
 print(solution.lengthOfLastWord("luffy is still joyboy"))  # Output: 6
+```
+
+This Python code defines a `Solution` class with a method `lengthOfLastWord` that calculates the length of the last word in a given string `s`. It splits the string based on spaces, retrieves the last word from the resulting list, and returns its length.
+
+---
