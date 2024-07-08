@@ -1,7 +1,3 @@
-Here's the repaired README file with proper formatting and content:
-
----
-
 ## Introduction to LeetCode Problems by venkatscodespace
 
 ### Problem #125: Valid Palindrome (Difficulty: Medium)
