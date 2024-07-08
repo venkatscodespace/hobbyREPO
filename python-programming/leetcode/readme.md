@@ -102,3 +102,57 @@ This code defines a `Solution` class with a `multiply` method that multiplies tw
 - Checks that the lengths of `num1` and `num2` are within the range of 1 to 200.
 - Converts the input strings to integers, performs the multiplication, and returns the result as a string.
 - Includes exception handling to manage potential `ValueError` exceptions during string to integer conversion.
+
+### Problem #58: Length of Last Word (Difficulty: Easy)
+
+Given a string `s` consisting of words and spaces, this program calculates the length of the last word in the string. A word is defined as a maximal substring consisting of non-space characters only.
+
+## Example
+
+## Example 1:
+Input: "Hello World"
+Output: 5
+Explanation: The last word is "World" with length 5.
+
+## Example 2:
+Input: "   fly me   to   the moon  "
+Output: 4
+Explanation: The last word is "moon" with length 4.
+
+## Example 3:
+Input: "luffy is still joyboy"
+Output: 6
+Explanation: The last word is "joyboy" with length 6.
+
+## Implementation in Python
+
+```python
+class Solution(object):
+    def lengthOfLastWord(self, s):
+        """
+        Calculates the length of the last word in a string.
+
+        Args:
+        - s: Input string consisting of words and spaces
+
+        Returns:
+        - Integer: Length of the last word
+        """
+        # Split the string into a list of words
+        list_s = s.split()
+
+        # Return the length of the last word, which is the last element in the list
+        return len(list_s[-1])
+
+# Example usage:
+# Initialize Solution object
+solution = Solution()
+
+# Example 1:
+print(solution.lengthOfLastWord("Hello World"))  # Output: 5
+
+# Example 2:
+print(solution.lengthOfLastWord("   fly me   to   the moon  "))  # Output: 4
+
+# Example 3:
+print(solution.lengthOfLastWord("luffy is still joyboy"))  # Output: 6
